@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.company.birthdayprob.logic.LogicUnitTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-02-24T06:59:10" hostname="LAPTOP-1QDN5O2O" time="49.64">
+  <properties/>
+  <testcase name="testResultRange" classname="com.company.birthdayprob.logic.LogicUnitTests" time="49.481"/>
+  <testcase name="testCalculateThreshold" classname="com.company.birthdayprob.logic.LogicUnitTests" time="0.159"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
